@@ -1,0 +1,2 @@
+# plugin-registration-payments-go
+
